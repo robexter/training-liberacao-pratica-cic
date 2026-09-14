@@ -1,0 +1,1 @@
+window.TRAINING_CATALOG=[{id:"liberacao",title:"Liberação de Equipamentos para Manutenção · CIC",domain:"U-39 · manutenção",description:"Treinamento prático de retirada de operação, condicionamento e liberação de equipamentos/sistemas para manutenção."}];
